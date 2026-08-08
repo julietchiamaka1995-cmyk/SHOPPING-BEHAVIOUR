@@ -8,7 +8,13 @@ DATA PREPARATION
 
 - Loaded dataset into Excel.
 
-- Transformed data in Power Query: changed data types, cleaned using Replace and Trim functions, promoted first line to headers.
+- Transformed data in Power Query.
+
+- Changed data types. 
+
+- Cleaned the dataset using Replace and Trim functions. 
+
+- Promoted first line to headers.
 
 - Closed and loaded the cleaned dataset back into Excel.
 
@@ -45,10 +51,10 @@ This section evaluates conversion rates, basket size, promotional impact, and pr
 
 KEY FINDINGS:
 
-Revenue growth is driven by online channels and younger customers (25–34), especially in premium fashion and electronics.
-Urban regions dominate sales, while offline channels remain stagnant.
-Promotions boost transaction volumes but erode margins.
-Customer acquisition is strong, but retention lags, highlighting a loyalty gap.
+- Revenue growth is driven by online channels and younger customers (25–34), especially in premium fashion and electronics.
+- Urban regions dominate sales, while offline channels remain stagnant.
+- Promotions boost transaction volumes but erode margins.
+- Customer acquisition is strong, but retention lags, highlighting a loyalty gap.
 
 PROBLEM STATEMENT
 
