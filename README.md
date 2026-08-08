@@ -23,10 +23,23 @@ OVERVIEW
 This Analysis Report captures shopping behaviour patterns, combining executive dashboard metrics, performance analysis, and customer demographics for the period of 2014 t0 2017.
 
 ##Dashboard preview
+## EXECUTIVE DASBOARD
+This section highlights overall revenue trends, top-performing categories, and channel performance.  
 ![Executive](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/EXECUTIVE.png)
-![Customer](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/CUSTOMERDEMO.png)
-![Performance](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/PERFORMANCE.png)
 
+---
+
+## CUSTOMER DEMO 
+This section explores age, gender, and regional distribution of customers, showing who drives the most value.  
+
+![CustomerDemo](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/CUSTOMERDEMO.png)
+
+---
+
+## PERFORMANCE ANALYSIS 
+This section evaluates conversion rates, basket size, promotional impact, and profitability by category.  
+
+![Performance](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/PERFORMANCE.png)
 KEY FINDINGS:
 
 Revenue growth is driven by online channels and younger customers (25–34), especially in premium fashion and electronics.
