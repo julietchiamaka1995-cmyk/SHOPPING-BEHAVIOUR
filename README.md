@@ -24,7 +24,8 @@ This Analysis Report captures shopping behaviour patterns, combining executive d
 
 ##Dashboard preview
 ## EXECUTIVE DASBOARD
-This section highlights overall revenue trends, top-performing categories, and channel performance.  
+This section highlights overall revenue trends, top-performing categories, and channel performance.
+
 ![Executive](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/EXECUTIVE.png)
 
 ---
@@ -40,6 +41,8 @@ This section explores age, gender, and regional distribution of customers, showi
 This section evaluates conversion rates, basket size, promotional impact, and profitability by category.  
 
 ![Performance](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/PERFORMANCE.png)
+
+
 KEY FINDINGS:
 
 Revenue growth is driven by online channels and younger customers (25–34), especially in premium fashion and electronics.
