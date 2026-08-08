@@ -1,4 +1,6 @@
 # SHOPPING-BEHAVIOUR
+
+
 TOOL USED
 - Excel
 
@@ -21,6 +23,9 @@ OVERVIEW
 This Analysis Report captures shopping behaviour patterns, combining executive dashboard metrics, performance analysis, and customer demographics for the period of 2014 t0 2017.
 
 ##Dashboard preview
+![Executive](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/EXECUTIVE.png)
+![Customer](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/CUSTOMERDEMO.png)
+![Performance](https://github.com/julietchiamaka1995-cmyk/SHOPPING-BEHAVIOUR/blob/main/PERFORMANCE.png)
 
 KEY FINDINGS:
 
