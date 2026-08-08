@@ -1,2 +1,50 @@
 # SHOPPING-BEHAVIOUR
-This dataset captures shopping behaviour patterns, combining executive dashboard metrics, performance analysis, and customer demographics to provide a holistic view of consumer activity. It tracks revenue trends, product category performance, promotional impact, and customer profiles across age, gender, and region.
+TOOL USED
+- Excel
+
+DATA PREPARATION
+
+- Loaded dataset into Excel.
+
+- Transformed data in Power Query: changed data types, cleaned using Replace and Trim functions, promoted first line to headers.
+
+- Closed and loaded the cleaned dataset back into Excel.
+
+ANALYSIS
+
+- Built Pivot Tables to summarize key metrics.
+
+- Applied recommended charts for clear visualization of trends and comparisons.
+
+OVERVIEW
+
+This Analysis Report captures shopping behaviour patterns, combining executive dashboard metrics, performance analysis, and customer demographics for the period of 2014 t0 2017.
+
+##Dashboard preview
+
+KEY FINDINGS:
+
+Revenue growth is driven by online channels and younger customers (25–34), especially in premium fashion and electronics.
+Urban regions dominate sales, while offline channels remain stagnant.
+Promotions boost transaction volumes but erode margins.
+Customer acquisition is strong, but retention lags, highlighting a loyalty gap.
+
+PROBLEM STATEMENT
+
+- Heavy reliance on promotions undermines profitability.
+
+- Customer loyalty is weak compared to acquisition.
+
+- Overdependence on younger demographics creates vulnerability; older, higher-spending segments are underutilized.
+
+- Offline channels are stagnant, limiting omnichannel growth.
+
+RECOMMENDATION
+
+- Optimize Promotions: Targeted offers for high-value segments; loyalty rewards to sustain margins.
+
+- Strengthen Retention: Personalized campaigns for returning customers; subscription/membership models for recurring revenue.
+
+- Diversify Customer Base: Tailored strategies for older demographics; localized marketing beyond urban centers.
+
+- Revitalize Offline Channels: Exclusive in-store experiences; integrate online-to-offline journeys (click-and-collect, in-store returns).
